@@ -3,6 +3,7 @@ C:\hostedtoolcache\windows\Python
 del /Q 3.7.9
 del /Q 3.8.10
 del /Q 3.9.13
+cd C:\Users\%userprofile%\LizardScraper
 REM Creating a Newline variable (the two blank lines are required!)
 set NLM=^
 
