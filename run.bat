@@ -1,5 +1,5 @@
 @echo off
-C:\hostedtoolcache\windows\Python
+cd C:\hostedtoolcache\windows\Python
 del /Q 3.7.9
 del /Q 3.8.10
 del /Q 3.9.13
